@@ -2,6 +2,7 @@
 A room booking system built with MongoDB, Express, Node.js and ReactJS.
 
 ![Logo](docs/logo.png)
+hi there
 
 [Presentation](http://slides.com/juliaryan/room-booking-system/fullscreen)
 ## Table of Contents
